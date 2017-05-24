@@ -1,0 +1,11 @@
+body {
+  color: #33ff00;
+  background-color: #282828;
+  font-family: 'VT323', monospace;
+  font-size: 1.25rem;
+}
+
+#welcome {
+  display: inline-block;
+  padding-left: 10px;
+}
