@@ -3,7 +3,7 @@ ELEMENT STYLES
 ***************************/
 
 body {
-  color: #3f0;
+  color: #0f6;
   background-color: #282828;
   font-family: 'VT323', monospace;
   font-size: 1.25rem;
@@ -14,7 +14,7 @@ p {
 }
 
 a, a:visited {
-  color: #3f0;
+  color: #0f6;
 }
 
 a:hover {
