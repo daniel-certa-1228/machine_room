@@ -1,10 +1,38 @@
+/***************************
+ELEMENT STYLES
+***************************/
+
 body {
-  color: #33ff00;
+  color: #3f0;
   background-color: #282828;
   font-family: 'VT323', monospace;
   font-size: 1.25rem;
 }
 
 p {
+  padding-left: 10px;
+}
+
+a, a:visited {
+  color: #3f0;
+}
+
+a:hover {
+  color: #ddd;
+}
+
+/***************************
+ID STYLES
+***************************/
+
+#links-1 {
+  list-style: none;
+}
+
+/***************************
+CLASS STYLES
+***************************/
+
+.list-style {
   padding-left: 10px;
 }
